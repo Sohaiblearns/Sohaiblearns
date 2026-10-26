@@ -1,6 +1,5 @@
 Hi, I'm Sohaib 👋
 
-About Me
 I'm an Data Analyst interested in turning data into useful business insights.
 Aspiring Data Scientist practicing machine learning models .
 
