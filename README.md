@@ -13,8 +13,9 @@ Aspiring Data Scientist practicing machine learning models .
 - SQL (MySQL)
 - Microsoft Excel
 - Power BI
-- Python
-- Pandas
+- Python(pandas,numpy,matplotlib,seaborn)
+- Google Collab
+- jupyter 
 
  Connect With Me
 - LinkedIn: https://www.linkedin.com/in/shaiksohaib24/
